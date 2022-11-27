@@ -17,6 +17,10 @@ const myRoute:Routes=[
   {
     path:"view",
     component:StudentViewComponent
+  },
+  {
+    path:"delete",
+    component:StudentDeleteComponent
   }
 ]
 
